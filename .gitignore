@@ -1,0 +1,5 @@
+env
+.vscode
+exec.ps1
+*.pyc
+*.sqlite3
